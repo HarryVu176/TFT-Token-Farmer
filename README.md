@@ -2,7 +2,7 @@ Tool for fun, trước giờ mình chạy 3 4 tháng rồi chưa bị ban acc. M
 
 Cách cài đặt:
 
-1. Tải Python 3.8.3 từ Windows Store hoặc trang chủ Python (python.org)
+1. Tải Python 3.8.3 từ Windows Store hoặc trang chủ Python, nhớ tick vào phần SET PATH (python.org)
 2. Mở file Install Requirements.bat, chờ nó chạy xong.
 3. Chạy file gg.bat để kích hoạt tool. Nếu tool hỏi password thì nhập "hestia".
 4. Vậy là xong rồi, vào bất kì lobby TFT nào thì bấm ok là được.
