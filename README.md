@@ -6,6 +6,7 @@ Cách cài đặt:
 2. Mở file Install Requirements.bat, chờ nó chạy xong.
 3. Chạy file gg.bat để kích hoạt tool. Nếu tool hỏi password thì nhập "hestia".
 4. Vậy là xong rồi, vào bất kì lobby TFT nào thì bấm ok là được.
+5. KHÔNG DI CHUYỂN CHUỘT SAU KHI BẤM NÚT OK <3
 
 Troubleshooting:
 
