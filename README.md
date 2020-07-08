@@ -12,6 +12,7 @@ Troubleshooting:
 
 Tool chỉ hoạt động ở độ phân giải 1920x1080 và 1280x720.
 
+
 Donate? Not needed but I appreciated that.
 
 Paypal: aki@moekawaii.space
@@ -19,6 +20,7 @@ Paypal: aki@moekawaii.space
 BTC: 1Aei1kLtMKwJA68NgFpqRSze8drhhVaDsC
 
 ETH: 0x116cfaf3d96a337e6fe5ba86cab1ca28a118b7b5
+
 
 Enjoy <3
 
