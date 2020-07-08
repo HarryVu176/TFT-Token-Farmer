@@ -143,7 +143,7 @@ def surrender():
 
 
 # Start auth + main script
-print("Developed by Aki from MoeKawaiiSpace - https://aetherya.github.io")
+print("Developed by Aki from MoeKawaiiSpace.")
 
 auth = inputy(f'Please enter Aki Private Password:')
 
