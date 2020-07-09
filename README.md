@@ -11,6 +11,7 @@ Cách cài đặt:
 Troubleshooting:
 
 Tool chỉ hoạt động ở độ phân giải 1920x1080 INGAME và 1280x720 CLIENT
+Tool hoạt động ở Client tiếng Anh. Tại mình không có LoL VN nên không có resources, anh em thông cảm. Chịu khó đổi qua tiếng Anh giúp mình nhé <3
 
 Donate? Not needed but I appreciated that.
 Paypal: aki@moekawaii.space
