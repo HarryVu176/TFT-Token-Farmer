@@ -10,7 +10,7 @@ Cách cài đặt:
 
 Troubleshooting:
 
-Tool chỉ hoạt động ở độ phân giải 1920x1080 và 1280x720.
+Tool chỉ hoạt động ở độ phân giải 1920x1080 INGAME và 1280x720 CLIENT
 
 Donate? Not needed but I appreciated that.
 Paypal: aki@moekawaii.space
